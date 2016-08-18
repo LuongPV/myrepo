@@ -1,2 +1,4 @@
 Edit file 1
 Commit A
+Edit file 1
+Commit B
